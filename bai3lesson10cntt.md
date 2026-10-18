@@ -1,6 +1,5 @@
 # BÀI TẬP THỰC HÀNH: SO SÁNH HIỆU QUẢ GIỮA MARKDOWN VÀ HTML TRONG HỆ THỐNG AI
-**Họ và tên học sinh:** [Điền tên của bạn vào đây]
-**Lớp:** [Điền tên lớp của bạn]
+
 
 ---
 
